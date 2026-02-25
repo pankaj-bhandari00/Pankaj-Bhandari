@@ -28,10 +28,11 @@ Focused on C, Data Structures & Algorithms, and building strong software fundame
 
 ## 🧠 Coding Profile
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj-bhandari00&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-bhandari00&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
