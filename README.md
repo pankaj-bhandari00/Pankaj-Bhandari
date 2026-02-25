@@ -1,28 +1,51 @@
-# Hi 👋 I'm Pankaj Bhandari
+<h1 align="center">Hi 👋, I'm Pankaj Bhandari</h1>
+<h3 align="center">B.Tech in Computer Science | Aspiring Software Engineer</h3>
 
-🎓 B.Tech in Computer Science  
-💻 Aspiring Software Engineer  
-🚀 Focused on C,C++,java,Python,HTML,CSS and Data Structures & Algorithms  
+<p align="center">
+Focused on C++, Data Structures & Algorithms, and building strong software fundamentals.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science  
+- 💻 Strong interest in C,C++,Python,Java,Html,CSS and Problem Solving  
+- 📚 Actively practicing Data Structures & Algorithms  
+- 🚀 Building projects to strengthen core concepts  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,python,git,github,leetcode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,git,github" />
+</p>
+
+---
+
+## 🧠 Coding Profile
+
+<p align="center">
+  <a href="https://leetcode.com//pankajbh">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj-bhandari00&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-bhandari00&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj-bhandari00&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-bhandari00&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
-- Solving DSA problems consistently
-- Building C++ projects
-- Strengthening core CS fundamentals
+
+- Solving DSA problems consistently  
+- Building structured Projects  
+- Strengthening core Computer Science fundamentals  
