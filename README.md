@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,python,git,github,leetcode" />
 </p>
 
 ---
